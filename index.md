@@ -142,7 +142,7 @@ Split Tunneling（拆分隧道）：可自由选择哪些应用走 VPN，哪些�
 
 ### 电脑VPN推荐（一）：<a href="https://fastexp.net/?source=github|vpnpc" rel="nofollow">ExpressVPN - 翻墙最稳定，速度最快，安全性高，3.49美金/月</a>
 
-![ExpressVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/ExpressVPN-PC-VPN.jpg)
+![ExpressVPN Banner：电脑翻墙，电脑VPN推荐](https://vpnjs.github.io/vpnassets/img/ExpressVPN-PC-VPN.jpg)
 
 在所有电脑 VPN 软件中，ExpressVPN无疑是最值得信赖、体验最好的选择之一。它在中国大陆的翻墙表现尤为出色，全年可用率高达 98% 以上，连接速度行业领先，同时具备极高的安全性，是大多数用户的首选 PC 端 VPN。
 
@@ -216,7 +216,7 @@ ExpressVPN 在 安全、速度、稳定性和功能 上全面领先，加上黑�
 
 ### 电脑VPN推荐（二）：<a href="https://faststrong.net/?source=github|vpnpc">StrongVPN - 老牌VPN，每月3.97美金，支持支付宝付款</a>
 
-![StrongVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/refs/heads/main/image/StrongVPN-PC-VPN.jpg)
+![StrongVPN Banner：电脑翻墙，电脑VPN推荐](https://vpnjs.github.io/vpnassets/img/StrongVPN-PC-VPN.jpg)
 
 除了 ExpressVPN 之外，StrongVPN 也是一款表现不错的电脑翻墙工具。在我们的推荐榜单中，它稳居第二，全年在中国大陆的可用率约为 80%。虽然在翻墙稳定性、连接速度和解锁地域限制等方面不及 ExpressVPN，但 StrongVPN 凭借 出色的安全性、简洁的操作界面和实惠的价格，依然受到许多用户的青睐。
 
@@ -271,7 +271,7 @@ StrongVPN 在安全、隐私保护和设备兼容性方面表现优异，价格�
 
 ### 电脑VPN推荐（三）：<a href="https://fastpure.net/?source=github|vpnpc" rel="nofollow">PureVPN - 安全好用，价格便宜，2.11美金/月</a>
 
-![PureVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/PureVPN-PC-VPN.jpg)
+![PureVPN Banner：电脑翻墙，电脑VPN推荐](https://vpnjs.github.io/vpnassets/img/PureVPN-PC-VPN.jpg)
 
 PureVPN 成立于 2007 年，经过多年发展，已经成为一款功能全面且价格亲民的电脑 VPN。在我们的推荐榜上，它排名第三，凭借强大的隐私保护、丰富的功能和极具吸引力的价格，成为很多用户的首选之一。
 
@@ -328,7 +328,7 @@ PureVPN 以广泛的服务器覆盖、强大的隐私保护和丰富的高级功
 
 ### 电脑VPN推荐（四）：<a href="https://fastsurf-shark.com/?source=github|vpnpc" rel="nofollow">Surfshark - 不限制设备数，性价比高</a>
 
-![Surfshark Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/Surfshark-PC-VPN.jpg)
+![Surfshark Banner：电脑翻墙，电脑VPN推荐](https://vpnjs.github.io/vpnassets/img/Surfshark-PC-VPN.jpg)
 
 Surfshark 成立于 2018 年，总部位于 英属维尔京群岛（无数据保留法，极利于隐私保护）。虽然成立时间不长，但凭借 强大的隐私功能 和 极高的性价比，在我们的电脑 VPN 排行榜中位列第四。
 
@@ -394,7 +394,7 @@ Surfshark 在 隐私保护、设备兼容性、价格和客户支持 上表现�
 
 ### 电脑VPN推荐（五）：<a href="https://fastnord.net/?source=github|vpnpc" rel="nofollow">NordVPN - 功能强大，安全性高</a>
 
-![NordVPN Banner：电脑翻墙，电脑VPN推荐](https://raw.githubusercontent.com/chinavpns/pcvpn.github.io/main/image/NordVPN-PC-VPN.jpg)
+![NordVPN Banner：电脑翻墙，电脑VPN推荐](https://vpnjs.github.io/vpnassets/img/NordVPN-PC-VPN.jpg)
 
 NordVPN成立于2012年，总部位于隐私友好的巴拿马。该地区没有数据保留法律，也不属于五眼、九眼或十四眼联盟的情报合作范围，确保了用户数据的高度隐私。NordVPN以强大的安全功能和遍布全球的庞大服务器网络著称，吸引了全球超过1400万忠实用户，并在业内拥有良好的口碑。NordVPN曾经也算得上是最好用的，但遗憾的是，近两年其翻墙能力大幅下降，用户必须进行手动配置后才能成功翻墙，且其连接速度也远不及ExpressVPN。因此，NordVPN在我们电脑VPN排行榜中仅位居第五名。
 
