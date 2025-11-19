@@ -7,7 +7,7 @@ keywords: "VPN, 加速器，电脑VPN, 电脑加速器, Windows VPN, Mac VPN，W
 
 # 电脑翻墙教程：2026年最好用的电脑VPN推荐
 
-<p align="center">最近更新于：2026年9月6日</p>
+<p align="center">最近更新于：2025年11月19日</p>
 
 ## 为什么要翻墙？
 
